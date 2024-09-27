@@ -1,16 +1,14 @@
 <a id="about"> </a>
 
-# ChatBox-Web App🌟
+# Real-time chat box-Web App🌟
 
-Welcome to Chatbox, your go-to platform for effortless and engaging conversations. Connect with friends, family, and new acquaintances in real-time with our user-friendly interface.Share messages in a secure and vibrant environment.Chatbox fosters seamless communication with its intuitive design and robust features. Stay connected, express yourself, and build meaningful connections with ease.(Desktop Application Coming Soon)
+Welcome to Real-time chat box, your go-to platform for effortless and engaging conversations. Connect with friends, family, and new acquaintances in real-time with our user-friendly interface.Share messages in a secure and vibrant environment.Real-time chat box fosters seamless communication with its intuitive design and robust features. Stay connected, express yourself, and build meaningful connections with ease.(Desktop Application Coming Soon)
 
 <p  align="center">
 
 <img width="200" src="./backend/public/github/img.png"/>
 
 </p>
-
-- <a href="https://chat-box-samarthkadam.vercel.app/" target="_blank">Demo</a>
 
 - [About Project](#about)
 
@@ -39,9 +37,6 @@ Welcome to Chatbox, your go-to platform for effortless and engaging conversation
 ## Features and Interfaces
 
 1. Home Page <a id="home"> </a>
-
-   - [Landing Page](https://chat-box-samarthkadam.vercel.app/) which lists all the features of the app
-     <br/><br/>
 
    <img width="1835" alt="HomePage" src="./backend/public/screenshots/Home.png">
    <br/><br/>
@@ -144,7 +139,7 @@ The illustration above showcases a conversation between two separate tabs opened
 
 1. Clone the project:
 
-   - Firstly, clone the project using the command: https://github.com/SamarthKadam/ChatBox
+   - Firstly, clone the project using the command: https://github.com/monstgame192/real-time-chat-box.git
 
 2. Install Packages:
 
@@ -188,26 +183,7 @@ The illustration above showcases a conversation between two separate tabs opened
 7. Open `http://localhost:3000` with your browser to see the app
 
 
-## Quick-Setup
-If you want to eliminate the backend setup then head to .env file in frontend. Replace your values with this
-```
-REACT_APP_API_URL=https://chatbox-api-bj21.onrender.com
-REACT_APP_SOCKET_URL=https://chatbox-api-bj21.onrender.com
-```
-
-
-
-<a id="links"> </a>
-
-## Useful Links
-
-- [Project Demo](https://chat-box-samarthkadam.vercel.app/)
-
-<a id="contact"> </a>
 
 ## Need help?
 
-Feel free to contact me on [Twitter](https://twitter.com/Samarth69908166) or [LinkedIn](https://www.linkedin.com/in/samarth-kadam-119a25209/), know more about me at [samarthkadam.vercel.app](https://samarthkadam.vercel.app/)
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/Samarth69908166)
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/filip-kowalski-92a51b320/)
